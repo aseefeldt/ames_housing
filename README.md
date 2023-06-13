@@ -14,3 +14,4 @@ A lasso model and ridge model were also fit. The best fit and score was given by
 
 It is recommended that we use the ridge model to predict home prices that are coming onto the market.  With this model we are able to predict a new home's price with greater accuracy than other methods.  By accurately predicting the sale price we will be able to better serve our clients, gauge future income, and negotiate for better prices. 
 # ames_housing
+# testing_project
